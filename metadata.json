@@ -1,0 +1,5 @@
+{
+  "name": "SmartLearnICT",
+  "description": "An ICT-based e-learning platform for Animation, Video Production, Authoring Tools, and Audio Production.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
